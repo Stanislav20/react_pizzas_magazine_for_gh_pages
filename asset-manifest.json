@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_pizzas_magazine_for_gh_pages/static/css/main.4349145c.css",
+    "main.js": "/react_pizzas_magazine_for_gh_pages/static/js/main.de0c972c.js",
+    "static/media/empty-cart.png": "/react_pizzas_magazine_for_gh_pages/static/media/empty-cart.db905d1f4b063162f25b.png",
+    "static/media/pizza-logo.svg": "/react_pizzas_magazine_for_gh_pages/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
+    "index.html": "/react_pizzas_magazine_for_gh_pages/index.html",
+    "main.4349145c.css.map": "/react_pizzas_magazine_for_gh_pages/static/css/main.4349145c.css.map",
+    "main.de0c972c.js.map": "/react_pizzas_magazine_for_gh_pages/static/js/main.de0c972c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4349145c.css",
+    "static/js/main.de0c972c.js"
+  ]
+}
